@@ -36,4 +36,4 @@ bot.on("voiceStateUpdate", async function(oldMember, newMember){
     //  //      newMember.setChannel("695788796758720664");
     ////   // }
 });
-bot.login("Njk1NzY0MTY0NTEzMjM0OTk0.Xoe7Mg.pMIq6L0B-CAxiBfNVi61lAgI_UE");
+bot.login("");
